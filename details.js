@@ -5,8 +5,8 @@
 var coordiDetails = 
     [
         {
-            'Name': 'tester',
-            'Email': 'tester@gmail.com',
-            'Post': 'coordinator'
+            'name': 'tester',
+            'email': 'tester@gmail.com',
+            'post': 'coordinator'
         }
     ]
